@@ -1,4 +1,4 @@
-# Assignment 1: Air Pollution
+# 📊 Assignment 1: Air Pollution
 
 This assignment involves writing three functions to work with a dataset containing 332 worksheets.
 
