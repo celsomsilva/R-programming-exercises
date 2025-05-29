@@ -1,6 +1,6 @@
 # 📊 Assignment 1: Air Pollution
 
-This assignment involves writing three functions to work with a dataset containing 332 worksheets.
+This assignment involves writing three functions to work with a dataset containing 332 worksheets (https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2Fspecdata.zip).
 
 ## Tasks
 
