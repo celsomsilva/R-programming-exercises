@@ -5,7 +5,7 @@
 This repository is a collection of my R programming exercises, covering a wide range of topics and complexity levels.
 
 - **Coursera 2018:** My first contact with R programming through the Johns Hopkins University Coursera course.
-- **Personal Exercises:** More advanced exercises and statistical modeling projects developed independently and as part of my postgraduate studies at USP(São Paulo University).
+- **Personal Exercises:** More advanced exercises and statistical modeling projects developed independently.
 
 ## Historical Note
 
