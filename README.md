@@ -8,11 +8,10 @@ This repository is my first contact with R programming through the Johns Hopkins
 
 ---
 
-## Advanced Exercises
+## Advanced Exercises (in progress; it is private for now.)
+
 
 - [`Advanced Statistical Models`](https://github.com/celsomsilva/advanced-statistical-models) – Here you will find advanced exercises I am creating/created after completing the **Data Science and Analytics postgraduate** program at **USP (University of São Paulo**) in 2024.
-
----
 
 
 ## Contact  
