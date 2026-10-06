@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"> Programming
 
-> “The key word in ‘Data Science’ is not Data; it is Science.” — Jeff Leek, Johns Hopkins university
+> “The key word in ‘Data Science’ is not Data; it is Science.” - Jeff Leek, Johns Hopkins university
 
 ## About this Repository
 
@@ -8,10 +8,14 @@ This repository is my first contact with R programming through the Johns Hopkins
 
 ---
 
-## Advanced Exercises (in progress; it is private for now.)
+## Advanced Exercises
 
+- [`Advanced exercises`](https://github.com/celsomsilva/algorithmic-benchmark-suite-R)) – Here you will find advanced exercises. A benchmarking and reproducibility framework for classical algorithms, focused on explicit reasoning, correctness, and performance evaluation in R.
 
-- [`Advanced Statistical Models`](https://github.com/celsomsilva/advanced-statistical-models) – Here you will find advanced exercises I am creating/created after completing the **Data Science and Analytics postgraduate** program at **USP (University of São Paulo**) in 2024.
+<!--## Advanced Exercises (in progress; it is private for now.)
+
+- [`Advanced Statistical Models`](https://github.com/celsomsilva/advanced-statistical-models) – Here you will find advanced exercises I am creating/created after completing the **Data Science and Analytics postgraduate** program at **USP (University of São Paulo**) in 2024.-->
+
 
 
 ## Contact  
