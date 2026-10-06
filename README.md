@@ -10,7 +10,7 @@ This repository is my first contact with R programming through the Johns Hopkins
 
 ## Advanced Exercises
 
-- [`Advanced exercises`](https://github.com/celsomsilva/algorithmic-benchmark-suite-R) – Here you will find advanced exercises. A benchmarking and reproducibility framework for classical algorithms, focused on explicit reasoning, correctness, and performance evaluation in R.
+- [`Advanced exercises`](https://github.com/celsomsilva/algorithmic-benchmark-suite-R) - Here you will find advanced exercises. A benchmarking and reproducibility framework for classical algorithms, focused on explicit reasoning, correctness, and performance evaluation in R.
 
 <!--## Advanced Exercises (in progress; it is private for now.)
 
